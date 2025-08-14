@@ -1,0 +1,13 @@
+Presentado como proyecto final para el curso "C5 Programación_Explorador_Virtual_L2" de Talento Tech, Min tic Colombia,
+El Aplicativo es desarrollado en lenguaje Python implementando biblioteca Tkinter para brindar una interfaz de usuario "GUI"
+consta de los módulos:
+
+* Registrar equipos (Nombre equipo, Serial, Modelo, Marca, Linea de Inspección)
+* Registrar Mantenimientos (Agendar, Mostrar, Eliminar, Graficar)
+* Registrar Calibraciones (Agendar, Mostrar, Eliminar, Graficar)
+* Registrar Técnicos o proveedores según sea(mantenimiento/calibración)
+* Ver y modificar intervalo de alertas
+* Mostrar y generar reporte en CSV,Excel,PDF
+
+
+El proyecto se trata sobre un aplicativo hoja de vida que registra equipos, que se utilizan en un CDA (Centro de diagnostico automotor) la idea surge debido a que al tener experiencia trabajando como director técnico en un CDA, es necesario y requisito para cumplir con la normatividad y Tambien es solicitado en las auditorias, de momento el proyecto es inicial, y parcialmente implementado, por lo tanto es una version beta a modo de miniproyecto, con el tiempo y con los recursos le incorporaré muchas mejoras y mas módulos, además de intergrarle bases de datos y autentificación de usuarios con sus roles, entre muchas mejoras más.
