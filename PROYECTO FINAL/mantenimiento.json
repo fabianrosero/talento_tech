@@ -1,0 +1,72 @@
+{
+    "1": [
+        {
+            "FECHA": "2025-07-30",
+            "FECHA_PROGRAMADA": "2025-08-04",
+            "DESCRIPCION": "MANTENIMIENTO PREVENTIVO",
+            "TECNICO": "CARLOS PEREZ"
+        },
+        {
+            "FECHA": "2025-07-31",
+            "FECHA_PROGRAMADA": "2025-08-10",
+            "DESCRIPCION": "CAMBIO DE BASE",
+            "TECNICO": "RAUL GUTIERREZ"
+        },
+        {
+            "FECHA": "2025-07-31",
+            "FECHA_PROGRAMADA": "2025-09-18",
+            "DESCRIPCION": "LIMPIEZA DE LENTE",
+            "TECNICO": "ANDRES ROSERO"
+        },
+        {
+            "FECHA": "2025-07-31",
+            "FECHA_PROGRAMADA": "2025-08-13",
+            "DESCRIPCION": "MANTENIMENTO PREVENTIVO",
+            "TECNICO": "WEFWEF"
+        }
+    ],
+    "2": [
+        {
+            "FECHA": "2025-07-30",
+            "FECHA_PROGRAMADA": "2025-08-06",
+            "DESCRIPCION": "CAMBIO DE RESORTES",
+            "TECNICO": "DANIEL SOLARTE"
+        },
+        {
+            "FECHA": "2025-08-06",
+            "FECHA_PROGRAMADA": "2025-09-02",
+            "DESCRIPCION": "VERIFICACION LENTE",
+            "TECNICO": "CARLOS NARVAEZ"
+        }
+    ],
+    "3": [
+        {
+            "FECHA": "2025-07-30",
+            "FECHA_PROGRAMADA": "2025-08-08",
+            "DESCRIPCION": "CAMBIO DE FILTROS",
+            "TECNICO": "CARLOS PEREZ"
+        }
+    ],
+    "4": [
+        {
+            "FECHA": "2025-07-30",
+            "FECHA_PROGRAMADA": "2025-09-03",
+            "DESCRIPCION": "LUBRICACION BALINERA",
+            "TECNICO": "JOSE CERON"
+        }
+    ],
+    "5": [
+        {
+            "FECHA": "2025-08-06",
+            "FECHA_PROGRAMADA": "2025-09-15",
+            "DESCRIPCION": "LUBRICAR RESORTES",
+            "TECNICO": "JOSE CERON"
+        },
+        {
+            "FECHA": "2025-08-06",
+            "FECHA_PROGRAMADA": "2025-09-17",
+            "DESCRIPCION": "CAMBIO BALINERA",
+            "TECNICO": "JOSE CERON"
+        }
+    ]
+}

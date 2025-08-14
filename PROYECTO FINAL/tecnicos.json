@@ -1,0 +1,30 @@
+{
+    "carlos_perez": {
+        "NOMBRE": "CARLOS PEREZ",
+        "CONTACTO": "123"
+    },
+    "jose_ceron": {
+        "NOMBRE": "JOSE CERON",
+        "CONTACTO": "3172284536"
+    },
+    "daniel_solarte": {
+        "NOMBRE": "DANIEL SOLARTE",
+        "CONTACTO": "3223458761"
+    },
+    "carlos_narvaez": {
+        "NOMBRE": "CARLOS NARVAEZ",
+        "CONTACTO": "3173873302"
+    },
+    "eurometric": {
+        "NOMBRE": "EUROMETRIC",
+        "CONTACTO": "3201459685"
+    },
+    "testcal": {
+        "NOMBRE": "TESTCAL",
+        "CONTACTO": "3055615530"
+    },
+    "pepe": {
+        "NOMBRE": "PEPE",
+        "CONTACTO": "123"
+    }
+}

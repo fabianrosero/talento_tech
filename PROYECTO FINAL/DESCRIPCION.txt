@@ -1,0 +1,15 @@
+El código escrito con biblitecas tkinter fue "convertido" para trabajar con biblioteca Gradio el cual es el archivo: HV_EQUIPOS_CDA_GRADIO.ipynb 
+
+Tambien se adjunta los siguientes archivos Json el cual almacena información de los módulos:
+
+equipos.json
+mantenimiento.json
+calibraciones.json
+tecnicos.json
+alertas.json
+
+la información guardada es a manera de ejemplo de manera que se pueda realizar una prueba de funcionamiento.
+Los archivos json deben estar en la carpeta de usuario segun sea el nombre de acuerdo al PC por ejemplo:
+C:\Users\nombre_de_usuario
+
+para ver ejecutar el aplicativo en tkinter se encuentra en la carpeta HV EQUIPOS TKINTER
