@@ -1,0 +1,74 @@
+{
+    "1": {
+        "NOMBRE": "LUXOMETRO",
+        "MARCA": "EXTECH",
+        "MODELO": "HD-400",
+        "SERIAL": "EX10025",
+        "LINEA": "Pista Livianos",
+        "FECHA": "2025-07-27"
+    },
+    "2": {
+        "NOMBRE": "ALINEADOR",
+        "MARCA": "VTECH",
+        "MODELO": "AV-300",
+        "SERIAL": "300VTH1",
+        "LINEA": "Pista Livianos",
+        "FECHA": "2025-07-27"
+    },
+    "3": {
+        "NOMBRE": "ANALIZADOR GASES",
+        "MARCA": "VTECH",
+        "MODELO": "AGS-808",
+        "SERIAL": "AG10233",
+        "LINEA": "Pista Livianos",
+        "FECHA": "2025-07-27"
+    },
+    "4": {
+        "NOMBRE": "FRENOMETRO",
+        "MARCA": "VTECH",
+        "MODELO": "FV-105P",
+        "SERIAL": "FVT00015",
+        "LINEA": "Pista Livianos",
+        "FECHA": "2025-07-30"
+    },
+    "5": {
+        "NOMBRE": "BANCO SUSPENSION",
+        "MARCA": "VTECH",
+        "MODELO": "BSV-774",
+        "SERIAL": "SVF200KJ",
+        "LINEA": "Pista Livianos",
+        "FECHA": "2025-07-30"
+    },
+    "6": {
+        "NOMBRE": "LUXOMETRO M",
+        "MARCA": "MOON",
+        "MODELO": "ML-205",
+        "SERIAL": "MNL002375",
+        "LINEA": "Pista Motocicletas",
+        "FECHA": "2025-07-30"
+    },
+    "7": {
+        "NOMBRE": "ANALIZADOR GASES M",
+        "MARCA": "BRAINBEE",
+        "MODELO": "AGS-688",
+        "SERIAL": "BAG002020",
+        "LINEA": "Pista Motocicletas",
+        "FECHA": "2025-07-30"
+    },
+    "8": {
+        "NOMBRE": "FRENOMETRO M",
+        "MARCA": "VETCH",
+        "MODELO": "FR-008",
+        "SERIAL": "1000324632B",
+        "LINEA": "Pista Motocicletas",
+        "FECHA": "2025-07-31"
+    },
+    "9": {
+        "NOMBRE": "SONOMETRO",
+        "MARCA": "SOUNDPRO",
+        "MODELO": "SE-DL",
+        "SERIAL": "SE-DL000231",
+        "LINEA": "Pista Motocicletas",
+        "FECHA": "2025-08-02"
+    }
+}

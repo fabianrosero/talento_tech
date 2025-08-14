@@ -1,0 +1,51 @@
+{
+    "1": [
+        {
+            "FECHA": "2025-07-30",
+            "FECHA_PROGRAMADA": "2025-12-03",
+            "DESCRIPCION": "CALIBRACION SEMESTRAL",
+            "TECNICO": "TESTCAL"
+        },
+        {
+            "FECHA": "2025-08-01",
+            "FECHA_PROGRAMADA": "2025-08-29",
+            "DESCRIPCION": "CALIBRACION",
+            "TECNICO": "EUROMETRIC"
+        },
+        {
+            "FECHA": "2025-08-04",
+            "FECHA_PROGRAMADA": "2025-08-01",
+            "DESCRIPCION": "AJUSTE CALIBRACION",
+            "TECNICO": "EUROMETRIC"
+        },
+        {
+            "FECHA": "2025-08-06",
+            "FECHA_PROGRAMADA": "2025-08-26",
+            "DESCRIPCION": "AJUSTE MEDICION",
+            "TECNICO": "DANIEL SOLARTE"
+        },
+        {
+            "FECHA": "2025-08-06",
+            "FECHA_PROGRAMADA": "2025-09-15",
+            "DESCRIPCION": "WEDEWDWE",
+            "TECNICO": "TESTCAL"
+        }
+    ],
+    "2": [
+        {
+            "FECHA": "2025-07-30",
+            "FECHA_PROGRAMADA": "2025-12-04",
+            "DESCRIPCION": "CALIBRACION SEMESTRAL",
+            "TECNICO": "TESTCAL"
+        }
+    ],
+    "3": [],
+    "4": [
+        {
+            "FECHA": "2025-08-06",
+            "FECHA_PROGRAMADA": "2025-12-03",
+            "DESCRIPCION": "AJUSTE CALIBRACION",
+            "TECNICO": "TESTCAL"
+        }
+    ]
+}
